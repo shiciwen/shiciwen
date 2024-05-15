@@ -146,7 +146,16 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style scoped>
-.scw-catalogue li{
-  line-height: 28px;
+.scw-catalogue ul{
+  
 }
+.scw-catalogue li{
+  font-size: 1.2rem;
+  line-height: 36px;
+  display: inline-block;
+  min-width: 8rem;
+  margin-right: 1rem;
+}
+
+
 </style>
