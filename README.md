@@ -1,4 +1,4 @@
-### Hi there 👋
+### 一生必背诗词文 👋
 
 <!--
 **shiciwen/shiciwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
